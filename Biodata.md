@@ -2,25 +2,24 @@
 # 👋 Halo, Saya Alif Ridho Walli
 
 💻 **Tentang Saya**
-- 🌱 Sedang belajar: [Teknologi/Framework yang dipelajari]  
-- 🚀 Tertarik dengan: [Bidang minat, misalnya AI, Web Development, Mobile Apps]  
-- 🎯 Tujuan saya: [Tujuan karier atau proyek pribadi]  
+- 🌱 Sedang belajar: Java,Calculus,Matematika diskrit  
+- 🚀 Tertarik dengan: Technopreneur,Artificial intelligence  
+- 🎯 Tujuan saya: Technopreneur  
 
 📫 **Hubungi Saya**
-- Email: [email kamu]  
-- LinkedIn: [link LinkedIn]  
-- Website/Portfolio: [link website]  
+- Email: 250605110125@student.uin-malang.ac.id  
+- instagram: @alifrdh  
+- Website/Portfolio:- 
 
 ⚡ **Fun Fact**  
-> [Tuliskan sesuatu unik tentang dirimu, bisa hobi, motto, atau kebiasaan]
+> penasaran dengan Matematika dan Teknologi 
 
 ---
 
-### 🔧 Bahasa & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
+### 🔧 Bahasa & Tools  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)  
+ 
 
 ---
 
